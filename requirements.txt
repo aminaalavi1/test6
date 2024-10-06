@@ -1,0 +1,14 @@
+streamlit==1.39.0
+pyautogen==0.2.21
+flaml[automl]
+pandas
+matplotlib
+seaborn
+dask[dataframe]
+requests==2.31.0
+openai
+numpy<2.0
+protobuf==3.20.3
+IPython
+faiss-cpu
+langchain==0.0.184  # Ensure compatibility with pyautogen
