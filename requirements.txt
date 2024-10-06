@@ -1,5 +1,6 @@
 streamlit==1.39.0
 pyautogen==0.2.21
+pyautogen[retrievechat]
 flaml[automl]
 pandas
 matplotlib
